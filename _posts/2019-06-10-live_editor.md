@@ -24,6 +24,7 @@ intellij 에서 제공하는 live edit 를 쓰면 해결됨.<br>
 intellij 에 3번 함수를 추가했는데, 브라우저에선 안 보이는 상황
 
 ![img1](https://user-images.githubusercontent.com/35619749/68358490-03c3bd00-015c-11ea-90c0-e1bcb5d51713.png)
+<br>
 왜 3번은 없냐 ...
 
 <hr>
