@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "intellij - Live Edit"
-date:   2019-04-15 17:00:01
+date:   2019-06-10 17:00:01
 categories: html
 tags: intellij LiveEdit 인텔리제이 라이브에디트 js html css
 author: ehan831
