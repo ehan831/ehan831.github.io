@@ -30,21 +30,21 @@ intellij 에 3번 함수를 추가했는데, 브라우저에선 안 보이는 �
 <hr>
 <h3>해결 방법</h3><br>
 
-1.인텔리제이에서 preferences > plugins 에서 LiveEdit 를 검색하고 설치하기<br>
+### 1.인텔리제이에서 preferences > plugins 에서 LiveEdit 를 검색하고 설치하기<br>
 ![le2](https://user-images.githubusercontent.com/35619749/68358500-07efda80-015c-11ea-9078-63efd0755d06.png)
 
 설치하면 인텔리제이를 재시작해야 한다.
 
 
-2.크롬 > 설정 > 확장 프로그램 열기<br>
+### 2.크롬 > 설정 > 확장 프로그램 열기<br>
 ![le3](https://user-images.githubusercontent.com/35619749/68358501-08887100-015c-11ea-85c2-8a5a1b10be3d.png)
 
 
-3.크롬 웹 스토어 열기<br>
+### 3.크롬 웹 스토어 열기<br>
 ![le4](https://user-images.githubusercontent.com/35619749/68358502-08887100-015c-11ea-89f4-466016ceb53a.png)
 
 
-4.JetBrains IDE Support 를 크롬에 추가하기<br>
+### 4.JetBrains IDE Support 를 크롬에 추가하기<br>
 ![le5](https://user-images.githubusercontent.com/35619749/68358503-08887100-015c-11ea-941f-9b254edc2ec9.png)
 
 끝. 
