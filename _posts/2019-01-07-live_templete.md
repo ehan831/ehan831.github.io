@@ -7,6 +7,8 @@ author: ehan831
 mathjax: true
 ---
 
+인텔리제이의 기능 공부
+
 ### 1. 새로 만들기
 
 마우스 우클릭 > New
