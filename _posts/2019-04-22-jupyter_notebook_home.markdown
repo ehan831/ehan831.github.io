@@ -26,7 +26,7 @@ mathjax: true
 
 ### 2. jupyter_notebook_config.py 에서 홈 경로 바꾸기
 ---
-<img src = "http://blogfiles.naver.net/MjAxOTAzMTJfMTEy/MDAxNTUyMzkxMzc0MzY3.XM41PfiUQIUpKCyP5P7HU3pOmtSggU6IvdBpQiyzfhIg.dr9FB0a_Ayt1MozVUR2zlbnJg75K88-Fsn4pprA7xNwg.PNG.ehan831/SE-a049db7c-e55f-4e9a-9c91-951979bcb7f4.png">
+![setnum](https://user-images.githubusercontent.com/35619749/82192296-c15f1200-992e-11ea-89aa-ab9301839fff.png)
 <br>
 <br>
 
