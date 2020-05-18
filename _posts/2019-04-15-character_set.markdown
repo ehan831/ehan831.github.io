@@ -28,7 +28,8 @@ SHOW VARIABLES LIKE "c%";
 
 하면 다음과 같은 결과물을 볼 수 있다.
 
-<img src="https://github.com/ehan831/ehan831.github.io/blob/master/assets/img/2019_04/cs5.png?raw=true" weight="30%">
+<img width="312" alt="cs5" src="https://user-images.githubusercontent.com/35619749/82191501-93c59900-992d-11ea-8a35-ee96f8d9ad0d.png">
+
 <br>
 <br>
 
@@ -99,6 +100,6 @@ SHOW CHARACTER SET;
 ```
 <br>
 
-<img src="https://github.com/ehan831/ehan831.github.io/blob/master/assets/img/2019_04/cs3.png?raw=true">
+<img width="412" alt="cs3" src="https://user-images.githubusercontent.com/35619749/82191483-8dcfb800-992d-11ea-8d0c-b16895a61866.png">
 
 ## 쨔쟌. 여기까지 했는데도 계속 문제가 발생한다면, character set 말고 다른 부분을 고민해봐야 될 차례!! 
