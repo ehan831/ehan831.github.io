@@ -60,5 +60,5 @@ Control + Shift  + J
 
 
 <h4>해당 단축키들은 Preferences > Keymap 에서 확인이 가능하다.
-
+<br>
 ![keymap](https://user-images.githubusercontent.com/35619749/68363748-3a570300-016f-11ea-815c-c3aafc60abfc.png)

@@ -2,4 +2,4 @@
 
 <br>
 
-blog template [한국어 가이드](README.ko.md).*
+blog template: Kiko Now [한국어 가이드](README.ko.md)
