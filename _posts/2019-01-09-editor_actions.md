@@ -7,8 +7,7 @@ comments: true
 mathjax: true
 ---
 
-
-인텔리제이의 기본적인 라인 편집 단축키들
+인텔리제이의 기본적인 라인 편집 단축키들 공부
 
 자세한 내용은 [인텔리제이 공식문서](https://www.jetbrains.com/help/rider/Working_in_the_Editor.html)에서 확인
 

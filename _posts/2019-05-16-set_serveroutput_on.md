@@ -7,11 +7,7 @@ comments: true
 mathjax: true
 ---
 
-datagrip 을 사용하고 있는데, 콘솔에서 아무리 
-
-SET serveroutput on;
-
-을 해도 결과가 출력되지 않음.
+datagrip 을 사용하고 있는데, 콘솔에서 아무리 SET serveroutput on; 을 해도 결과가 출력되지 않음.
 
 왜지!!!!!!!
 

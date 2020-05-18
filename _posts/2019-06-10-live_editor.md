@@ -6,10 +6,7 @@ author: ehan831
 comments: true
 mathjax: true
 ---
-intellij html, css, javascript 로 이것저것 공부해보고 있는데, 
-
-웹 브라우저에 반영이 너무나도 늦을 때 ...
-새로 고침을 아무리 눌러도 추가한 코드가 업데이트 되지 않을 때 ...
+intellij html, css, javascript 로 이것저것 공부해보고 있는데, 웹 브라우저에 반영이 너무나도 늦을 때 ... 새로 고침을 아무리 눌러도 추가한 코드가 업데이트 되지 않을 때 ...
 
 intellij 에서 제공하는 live edit 를 쓰면 해결됨.<br>
 `주의 - intellij ultimate 버전에서만 제공되는 기능이다.`

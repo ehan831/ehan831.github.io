@@ -7,14 +7,7 @@ comments: true
 mathjax: true
 ---
 
-# 쥬피터 노트북 홈 디렉토리 변경하기
----
-
-<br>
-
->change the home directory for jupyter notebook(mac)
-
->아나콘다 홈 디렉토리 변경하기(맥)
+쥬피터 노트북 홈 디렉토리 변경하기 (아나콘다 홈 디렉토리 변경하기)
 
 <br>
 
